@@ -1,0 +1,19 @@
+body
+{
+    background-image:url("backgroundimage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1,h2,h4,h3
+{
+    color:whitesmoke;
+    text-align: center;
+}
+.center
+{
+    margin:auto;
+    width: 60%;
+    border: 2px solid ;
+    padding: 1-px;
+}
